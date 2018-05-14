@@ -1,0 +1,13 @@
+﻿body { font-size:12px; }
+p.wzf { }
+table, tr, th, td { border:1px solid #ff8000; border-collapse:collapse; }
+table { margin-bottom:16px; }
+th { text-align:left; }
+table.lst0 { }
+table.lst1 { }
+table.lst2 { }
+table.img { }
+table.img tr.r0 { background-color:#fff4c4; }
+table.img tr.r1 { background-color:#ebf2f8; }
+table.img tr.r2 { background-color:#ffffff; }
+table.img.noChange { display:none; }
